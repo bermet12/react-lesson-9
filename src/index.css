@@ -1,0 +1,31 @@
+header {
+  background-color: teal;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+p {
+  color: white;
+  font-size: 28px;
+}
+
+h1 {
+  color: teal;
+}
+
+input {
+  padding: 8px 15px;
+  margin: 10px 10px 10px 0;
+}
+
+button {
+  padding: 8px 10px;
+  margin-right: 15px;
+  background-color: teal;
+  color: white;
+}
